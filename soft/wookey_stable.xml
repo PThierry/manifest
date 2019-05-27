@@ -14,7 +14,7 @@
     <project name="wookey-project/ewok-kernel.git" remote="github" path="./kernel" revision="refs/tags/v0.9.5" />
 
     <!-- bootloader -->
-    <project name="wookey-project/bootloader.git" remote="github" path="./loader" revision="refs/tags/v0.8.0" />
+    <project name="PThierry/bootloader.git" remote="github" path="./loader" revision="loader_clean" />
 
     <!-- applications for firmware mode -->
     <project name="wookey-project/app-wookey-crypto.git" remote="github" path="./apps/crypto" revision="refs/tags/v0.7.0" />
